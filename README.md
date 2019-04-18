@@ -1,2 +1,2 @@
 # KKothuri.github.io
-My website
+Personal Website
